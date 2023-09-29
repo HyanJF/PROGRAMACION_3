@@ -1,0 +1,17 @@
+# ninja log v5
+344	2834	7176582065002103	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+1	2835	7176582065002103	CMakeFiles/TEMA_1_Float.dir/FloatCell.cpp.obj	f72f1b012ac72d9a
+9	284	7176583931692915	CMakeFiles/TEMA_1_Float.dir/FloatCell.cpp.obj	f72f1b012ac72d9a
+0	74	7176584032269147	CMakeFiles/TEMA_1_Float.dir/FloatCell.cpp.obj	f72f1b012ac72d9a
+12	462	7176584036135367	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+10	349	7176584675607566	CMakeFiles/TEMA_1_Float.dir/FloatCell.cpp.obj	f72f1b012ac72d9a
+1	504	7176584677343939	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+0	405	7176588183878231	CMakeFiles/TEMA_1_Float.dir/FloatCell.cpp.obj	f72f1b012ac72d9a
+23	801	7176588187871699	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+801	1534	7176588195026295	TEMA_1_Float.exe	45debc794d04faed
+0	759	7176590111248447	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+760	1104	7176590113926358	TEMA_1_Float.exe	45debc794d04faed
+1	681	7176590285769645	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+682	1052	7176590289012892	TEMA_1_Float.exe	45debc794d04faed
+1	657	7176590951162601	CMakeFiles/TEMA_1_Float.dir/main.cpp.obj	85c99fa0f21f0fd0
+657	1057	7176590954688832	TEMA_1_Float.exe	45debc794d04faed
