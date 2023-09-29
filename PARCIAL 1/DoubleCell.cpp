@@ -12,7 +12,7 @@ DoubleCell::DoubleCell(double value)
         : Storedvalue(value){}
 
 // Copy constructor
-// Constructor que se encarga de copia
+// Que se encarga de copia
 DoubleCell::DoubleCell(const DoubleCell& other)
         : Storedvalue(other.Storedvalue){}
 

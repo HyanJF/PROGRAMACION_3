@@ -1,5 +1,6 @@
 #include "IntCell.h"
 
+// Inci
 IntCell::IntCell(int newValue) : storedValue(newValue) {}
 IntCell::IntCell(const IntCell &rhs) : storedValue(rhs.storedValue) {}
 IntCell::IntCell(IntCell &&rhs) noexcept : storedValue(rhs.storedValue) {
